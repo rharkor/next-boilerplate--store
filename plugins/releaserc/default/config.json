@@ -1,5 +1,5 @@
 {
-    "$schema": "../../component.d.json",
+    "$schema": "https://raw.githubusercontent.com/rharkor/next-boilerplate/dev/packages/cli/schemas/plugin.d.json",
     "name": "Default semantic-release configuration",
     "description": "Automate versioning and package publishing with semantic-release",
     "paths": [

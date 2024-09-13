@@ -1,5 +1,5 @@
 {
-    "$schema": "../../component.d.json",
+    "$schema": "https://raw.githubusercontent.com/rharkor/next-boilerplate/dev/packages/cli/schemas/plugin.d.json",
     "name": "Default makefile",
     "description": "Basic makefile with buildnrun command to start a docker app",
     "paths": [

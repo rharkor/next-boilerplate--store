@@ -1,5 +1,5 @@
 {
-    "$schema": "../schema.d.json",
+    "$schema": "https://raw.githubusercontent.com/rharkor/next-boilerplate/dev/packages/cli/schemas/template.d.json",
     "name": "Empty monorepo",
     "description": "An empty monorepo",
     "plugins": [
