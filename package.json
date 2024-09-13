@@ -1,15 +1,15 @@
 {
-    "name": "@next-boilerplate/default-store",
+    "name": "@next-boilerplate/store",
     "private": false,
     "publishConfig": {
         "access": "public"
     },
     "version": "0.0.0",
     "scripts": {},
-    "homepage": "https://github.com/rharkor/next-boilerplate--default-store",
+    "homepage": "https://github.com/rharkor/next-boilerplate--store",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/rharkor/next-boilerplate--default-store.git"
+        "url": "git+https://github.com/rharkor/next-boilerplate--store.git"
     },
     "keywords": [
         "nextjs",
