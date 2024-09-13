@@ -1,0 +1,11 @@
+{
+    "$schema": "../../component.d.json",
+    "name": "Default devcontainer configuration",
+    "description": "Open VS Code in a linux container",
+    "paths": [
+        {
+            "from": ".devcontainer",
+            "to": ".devcontainer"
+        }
+    ]
+}

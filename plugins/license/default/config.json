@@ -1,0 +1,11 @@
+{
+    "$schema": "../../component.d.json",
+    "name": "MIT License",
+    "description": "",
+    "paths": [
+        {
+            "from": "LICENSE",
+            "to": "LICENSE"
+        }
+    ]
+}

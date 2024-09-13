@@ -1,0 +1,11 @@
+{
+    "$schema": "../../component.d.json",
+    "name": "Default semantic-release configuration",
+    "description": "Automate versioning and package publishing with semantic-release",
+    "paths": [
+        {
+            "from": ".releaserc.json",
+            "to": ".releaserc.json"
+        }
+    ]
+}

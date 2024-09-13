@@ -1,0 +1,11 @@
+{
+    "$schema": "../../component.d.json",
+    "name": "Empty app directory",
+    "description": "Generates an empty app directory",
+    "paths": [
+        {
+            "from": "app",
+            "to": "app"
+        }
+    ]
+}
