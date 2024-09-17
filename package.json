@@ -4,7 +4,7 @@
     "publishConfig": {
         "access": "public"
     },
-    "version": "0.0.0",
+    "version": "1.0.0-rec-release.2",
     "files": [
         "plugins",
         "templates"
