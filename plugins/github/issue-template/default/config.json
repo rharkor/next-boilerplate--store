@@ -1,5 +1,5 @@
 {
-    "$schema": "https://raw.githubusercontent.com/rharkor/next-boilerplate/dev/packages/cli/schemas/plugin.d.json",
+    "$schema": "https://raw.githubusercontent.com/rharkor/next-boilerplate/dev/packages/cli-helpers/schemas/plugin.d.json",
     "name": "Default gitHub issue template",
     "description": "FitHub issue template with bug report and feature request",
     "paths": [
