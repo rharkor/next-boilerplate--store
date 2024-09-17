@@ -5,7 +5,7 @@
     "plugins": [
         "turbo/default",
         "devcontainer/default",
-        "app/empty",
+        "apps/empty",
         "packages/empty",
         "conventional-commits/default",
         "vscode/default",
