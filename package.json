@@ -5,6 +5,10 @@
         "access": "public"
     },
     "version": "0.0.0",
+    "files": [
+        "plugins",
+        "templates"
+    ],
     "scripts": {},
     "homepage": "https://github.com/rharkor/next-boilerplate--store",
     "repository": {
