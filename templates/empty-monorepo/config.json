@@ -4,16 +4,11 @@
     "description": "An empty monorepo",
     "plugins": [
         "turbo/default",
-        "devcontainer/default",
         "apps/empty",
         "packages/empty",
-        "conventional-commits/default",
         "vscode/default",
-        "github/workflows/default",
-        "github/issue-template/default",
         "gitignore/default",
-        "releaserc/default",
         "license/default",
-        "makefile/default"
+        "package/default"
     ]
 }
