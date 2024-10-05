@@ -11,5 +11,5 @@
         "turbo": "^2.0.4"
     },
     "license": "MIT",
-    "packageManager": "npm@10.8.3"
+    "packageManager": "npm@10.9.0"
 }
