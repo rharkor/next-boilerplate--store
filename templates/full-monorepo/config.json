@@ -1,21 +1,8 @@
 {
     "$schema": "https://raw.githubusercontent.com/rharkor/next-boilerplate/dev/packages/cli-helpers/schemas/template.d.json",
-    "name": "Full monorepo",
-    "description": "Full monorepo configuration with ci checks, rule enforcement and more",
+    "name": "Saas boilerplate",
+    "description": "A full monorepo with turbo, vscode, github actions, renovate, database, trpc, nextjs, nextui, auth, etc.",
     "plugins": [
-        "turbo/default",
-        "devcontainer/default",
-        "apps/empty",
-        "packages/empty",
-        "conventional-commits/default",
-        "vscode/default",
-        "github/workflows/default",
-        "github/issue-template/default",
-        "gitignore/default",
-        "releaserc/default",
-        "license/default",
-        "makefile/default",
-        "renovate/default",
-        "package/full-monorepo"
+        "full-monorepo/saas"
     ]
 }
