@@ -1,0 +1,73 @@
+{
+    "$schema": "https://raw.githubusercontent.com/rharkor/next-boilerplate/dev/packages/cli-helpers/schemas/plugin.d.json",
+    "name": "Default full monorepo configuration",
+    "description": "A big monorepo with everything you need for your next saas",
+    "paths": [
+        {
+            "from": ".devcontainer",
+            "to": ".devcontainer"
+        },
+        {
+            "from": ".git-hooks",
+            "to": ".git-hooks"
+        },
+        {
+            "from": "git-conventional-commits.yaml",
+            "to": "git-conventional-commits.yaml"
+        },
+        {
+            "from": "apps",
+            "to": "apps"
+        },
+        {
+            "from": "packages",
+            "to": "packages"
+        },
+        {
+            "from": ".github/ISSUE_TEMPLATE",
+            "to": ".github/ISSUE_TEMPLATE"
+        },
+        {
+            "from": ".github/workflows",
+            "to": ".github/workflows"
+        },
+        {
+            "from": ".gitignore",
+            "to": ".gitignore"
+        },
+        {
+            "from": "LICENSE",
+            "to": "LICENSE"
+        },
+        {
+            "from": "Makefile",
+            "to": "Makefile"
+        },
+        {
+            "from": "package.json",
+            "to": "package.json"
+        },
+        {
+            "from": "renovate.json",
+            "to": "renovate.json"
+        },
+        {
+            "from": ".releaserc.json",
+            "to": ".releaserc.json"
+        },
+        {
+            "from": "turbo.json",
+            "to": "turbo.json"
+        },
+        {
+            "from": "vscode",
+            "to": ".vscode"
+        }
+    ],
+    "scripts": {
+        "replaceByProjectName": {
+            "root": ".",
+            "search": "next-boilerplate"
+        }
+    }
+}
