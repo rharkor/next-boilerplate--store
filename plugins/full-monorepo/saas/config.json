@@ -60,7 +60,7 @@
             "to": "turbo.json"
         },
         {
-            "from": "vscode",
+            "from": ".vscode",
             "to": ".vscode"
         }
     ],
