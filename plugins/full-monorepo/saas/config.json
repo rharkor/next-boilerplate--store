@@ -32,7 +32,7 @@
             "to": ".github/workflows"
         },
         {
-            "from": ".g-ignore",
+            "from": "ignore",
             "to": ".gitignore"
         },
         {
