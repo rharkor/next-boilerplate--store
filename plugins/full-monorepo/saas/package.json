@@ -14,7 +14,8 @@
         "test": "turbo run test",
         "ci-check": "turbo run ci-check",
         "init": "npm run init -s -w packages/scripts",
-        "depcheck": "npm run depcheck -s -w packages/scripts"
+        "depcheck": "npm run depcheck -s -w packages/scripts",
+        "build-deps": "turbo run build --filter='@next-boilerplate/*'^..."
     },
     "workspaces": [
         "apps/*",
@@ -34,5 +35,5 @@
         "zx": "^8.1.4"
     },
     "license": "MIT",
-    "packageManager": "npm@10.9.0"
+    "packageManager": "npm@10.8.3"
 }
