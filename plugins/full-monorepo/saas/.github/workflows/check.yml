@@ -28,7 +28,7 @@ jobs:
       - name: Install dependencies
         run: npm install
       - name: Cache for Turbo
-        uses: rharkor/caching-for-turbo@v1.5
+        uses: rharkor/caching-for-turbo@v1.8
       - name: Init
         run: npm run init
       - name: Lint check
@@ -59,7 +59,7 @@ jobs:
       - name: Install dependencies
         run: npm install
       - name: Cache for Turbo
-        uses: rharkor/caching-for-turbo@v1.5
+        uses: rharkor/caching-for-turbo@v1.8
       - name: Init
         run: npm run init
       - name: Build
