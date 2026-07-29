@@ -33,5 +33,5 @@
         "semantic-release": "^24.0.0"
     },
     "license": "MIT",
-    "packageManager": "npm@10.9.0"
+    "packageManager": "npm@10.9.9"
 }
